@@ -1,0 +1,13 @@
+34e35b1 - fariZzzz, 74 seconds ago : Refined code design and readability
+4efd535 - fariZzzz, 2 days ago : Fixed climbing logic when passing through ladder and platform and scoring logic when jump over barrels
+e410c84 - fariZzzz, 3 days ago : Fixed climbing logic when passing through ladder and platform junctions
+55c397c - fariZzzz, 3 days ago : Fixed scoring logic on jumping over barrels
+285cc51 - fariZzzz, 3 days ago : Established Endpage setout
+1d98be7 - fariZzzz, 4 days ago : Established win&lose condition and game page transition
+d3609de - fariZzzz, 4 days ago : Implemented hammer power up logic and Mario's image update
+c2fe2df - fariZzzz, 4 days ago : Load in all entities and handle the collision between them
+6ac0e9f - fariZzzz, 6 days ago : Fixed collision handling between platform and Mario and update ladder interaction
+e277d9f - fariZzzz, 7 days ago : Start implementing Mario character movement and base logic
+466f42a - fariZzzz, 7 days ago : Set up page switching logic and GamePage with platform rendering, timer, and score display
+bfb9b62 - fariZzzz, 8 days ago : Front cover set up and git log
+6acb892 - fariZzzz, 12 days ago : Initial Commit
